@@ -1,0 +1,11 @@
+{
+    "ignore": [
+        ".git"
+    ],
+    "watch": [
+        "."
+    ],
+    "exec": "go run main.go",
+    "ext": "go",
+    "delay": "2500"
+}
